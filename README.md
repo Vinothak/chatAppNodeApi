@@ -1,7 +1,7 @@
 # chatAppNodeApi
 This is my backend which will be serving my front end chat application.
 
-you download the zip file, extract it and execute the below command
+Download the zip file, extract it and execute the below command
 
 node server.js
 
